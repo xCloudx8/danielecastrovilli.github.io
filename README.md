@@ -10,4 +10,5 @@ Template is made by Xiaoying Riley you can find it here: http://themes.3rdwaveme
 
 ## CV Latex template
 Template is made by Adrien Friggeri you can find it here: http://www.latextemplates.com/template/friggeri-resume-cv
+
 My version will be uploaded soon.
