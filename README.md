@@ -1,13 +1,9 @@
-# Personal web site
-Simple web site made by me initially with HTML and CSS, in future i will implement some new functionalities star my repo =)
+# Daniele @xCloudx88
+Hi, I'm Daniele I'm a data engineer in love for every new technology from new programming code to new tools. Spcialized in analyzing and integrating from various sources different kind of data.
 
-## License and how to use
-Everything related to my personal work is under MIT licence.
+## How I work
+I try to be precise, clean and trying following the KISS culture.
 
-## Web site template
-The web site is made entirely by me =)
-
-## CV Latex template
-The latex CV template is awesome CV: https://github.com/posquit0/Awesome-CV
-
-My version will be uploaded soon.
+## Get in touch
+- Twitter: https://twitter.com/xCloudx8
+- Personal site: https://xCloudx8.github.com/
