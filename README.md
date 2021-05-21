@@ -1,5 +1,5 @@
 # Daniele @xCloudx8
-Hi, I'm Daniele I'm a data engineer in love for every new technology from new programming code to new tools. Spcialized in analyzing and integrating from various sources different kind of data.
+Hi, I'm Daniele I'm  in love for every new technology from new programming code to new tools. Spcialized in analyzing and integrating from various sources different kind of data and analyzing them for security.
 
 ## How I work
 I try to be precise, clean and trying following the KISS culture.
